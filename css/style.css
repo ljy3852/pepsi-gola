@@ -12,9 +12,9 @@
     padding-top: 10px;
     padding-bottom: 10px;
 }
-.mx-5 {
-    margin-left: 5px;
-    margin-right: 5px;
+.mx-10 {
+    margin-left: 10px;
+    margin-right: 10px;
 }
 .my-10 {
     margin-top: 10px;
@@ -94,4 +94,33 @@ a:hover {
 
 .bg-sns {
     background-color: #f3f3f3;
+}
+.divider {
+    border: 0;
+    height: 1px;
+    background-color: #005891;
+}
+
+/* =================== #footer */
+.cs-title {
+    font-size: 15px;
+    color: #005891
+}
+
+.cs-number {
+    font-size: 30px;
+    font-weight: bold;
+    color: #005891;
+}
+.cs-number a {
+    color: #005891;
+}
+.address-ko {
+    font-size: 13px;
+}
+.ownership-en {
+    font-size: 11px;
+}
+.brand {
+    font-style: italic;
 }
